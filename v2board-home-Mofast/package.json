@@ -1,0 +1,31 @@
+{
+  "name": "v2board-home-mofast",
+  "version": "0.0.0",
+  "author": {
+    "name": "MiyaUU 幂雅悠悠",
+    "repository": {
+      "url": "https://github.com/MiyaUU/v2board-theme-lib/v2board-home-mofast"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "sass": "^1.45.2",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  }
+}

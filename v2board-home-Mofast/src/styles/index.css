@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #000000de;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded {
+    margin: 1px 0 !important;
+}
+
+.css-1vlwt05-MuiPaper-root-MuiAppBar-root {
+    background-color: #FFFFFFF2 !important;
+}
+
+
+.css-1vlwt05-MuiPaper-root-MuiAppBar-root {
+    box-shadow: 0 1px 7px #d5d5d5 !important;
+}
+
+.css-1m4ljmh-MuiTypography-root {
+    width: 80% !important;
+}
